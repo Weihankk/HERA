@@ -97,7 +97,7 @@ perl $script/Daligner_Reformate.pl $Gap_Info-Final.txt $Gap_Info-Final_Reformate
 ";
 		close(OUT);
 		sleep(3);
-		my $commond=`bsub < $Gap_Info.pbs`;
+		#my $commond=`bsub < $Gap_Info.pbs`;
 	}
 	else{
 		open OUT,">$Gap_Info-pipeline.sh" or die $!;
