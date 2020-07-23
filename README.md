@@ -6,8 +6,15 @@ Local Highly Efficient Repeat Assembly
 ## 项目介绍
 将HERA流程拆分，并使用R重写了本地运行流程脚本。
 
+HERA项目源地址：https://github.com/liangclab/HERA
+
+本人邮箱：whzhang@webmail.hzau.edu.cn
+
+本人QQ：97578011
+
 ## 本人的小疑问
-没有光谱和Hi-C，CANU+HERA的结果可以拿来基于现有参考基因组去scaffolding吗？ 
+- 没有光谱和Hi-C，CANU+HERA的结果可以拿来基于现有参考基因组去scaffolding吗？ 
+- HERA的结果需要验证才可以？文章中的conflict是啥意思？本人才疏学浅，希望可以交流提升。。。
 
 ## 使用方法
 #### 首先把我整理好的脚本克隆一波
