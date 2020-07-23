@@ -6,6 +6,9 @@ Local Highly Efficient Repeat Assembly
 ## 项目介绍
 将HERA流程拆分，并使用R重写了本地运行流程脚本。
 
+## 本人的小疑问
+没有光谱和Hi-C，CANU+HERA的结果可以拿来基于现有参考基因组去scaffolding吗？ 
+
 ## 使用方法
 #### 首先把我整理好的脚本克隆一波
 ```
