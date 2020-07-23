@@ -25,8 +25,9 @@ chmod 755 *
 vi LocalHERA_Parameters.R
 ```
 - 请自行修改工作目录，以及数据、工具路径
+-----------------------------------
 
-#### 假设你修改好了，那就开始运行
+#### 假设你修改好了，那就开始运行，开车！:car::taxi::articulated_lorry::police_car::minibus::truck::ambulance:
 - 第1步：注意检查脚本中BWA路径，因为我服务器中的bwa版本比较新，HERA使用的是`bwa-0.7.10`，需要用到`-e`参数，BWA近几年的版本取消了这个参数，所以需要各位自行下载bwa-0.7.10版本。
 ```
 Rscript LocalHERA_Run1.R LocalHERA_Parameters.R
