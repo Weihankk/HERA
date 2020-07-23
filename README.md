@@ -1,2 +1,3 @@
-# LocalHERA (Local Highly Efficient Repeat Assembly)
+# LocalHERA
+Local Highly Efficient Repeat Assembly
 
