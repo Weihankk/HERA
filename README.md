@@ -8,7 +8,7 @@ Local Highly Efficient Repeat Assembly
 
 HERA项目源地址：https://github.com/liangclab/HERA
 
-如果使用本流程请引用HREA原文：
+如果使用本流程请引用HERA原文：
 
 Du, H., & Liang, C. (2019). Assembly of chromosome-scale contigs by efficiently resolving repetitive sequences with long reads. Nature communications, 10(1), 1-10.
 
