@@ -8,13 +8,18 @@ Local Highly Efficient Repeat Assembly
 
 HERA项目源地址：https://github.com/liangclab/HERA
 
+如果使用本流程请引用HREA原文：
+
+Du, H., & Liang, C. (2019). Assembly of chromosome-scale contigs by efficiently resolving repetitive sequences with long reads. Nature communications, 10(1), 1-10.
+
 本人邮箱：whzhang@webmail.hzau.edu.cn
 
 本人QQ：97578011
 
 ## 本人的小疑问
 - 没有光谱和Hi-C，CANU+HERA的结果可以拿来基于现有参考基因组去scaffolding吗？ 
-- HERA的结果需要验证才可以？文章中的conflict是啥意思？本人才疏学浅，希望可以交流提升。。。
+- HERA的结果是否必须结合Bionano和Hi-C才有效？
+- 本人才疏学浅，希望能交流共同提升，从结果来看，HERA非常让人欣喜！
 
 ## 使用方法
 #### 首先把我整理好的脚本克隆一波
